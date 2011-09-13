@@ -1,5 +1,4 @@
-require 'version'
-
+require 'geocoder/geoip_loca/version'
 require 'geocoder/lookups/geoip_local'
 
 module Geocoder
